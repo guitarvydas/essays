@@ -5,8 +5,6 @@ Author: Paul Tarvydas
 
 ## Introduction ##
 
-It seems that we have not discussed “blockchain” in this FBP group.  We should discuss it.  I am not an expert and I welcome any corrections.
-
 “Blockchain” is the generic term for BitCoin, Etherium, et. al.
 
 As it currently stands, a blockchain is a chain (using unique hashes as links) of blocks that contain one or more financial transactions.  The blockchain is simply a public ledger that holds transactions and makes them immutable.  Blockchain is not restricted to being a ledger financial transactions, but BitCoin (the product) specifically devotes itself to financial transactions.
